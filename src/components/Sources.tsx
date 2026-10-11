@@ -7,7 +7,7 @@ export default function Sources() {
   const dataCsv = `${import.meta.env.BASE_URL}data/data-perangkat-daerah-medan-2025.csv`;
 
   return (
-    <Section id="sumber" tone="muted" eyebrow="Sumber" title="Sumber data dan catatan">
+    <Section id="sumber" tone="muted" eyebrow="Sumber" title="Sumber data">
       <div className="card">
         <h3>Sumber data</h3>
         <p className="source-quote">{m.sumber}</p>
