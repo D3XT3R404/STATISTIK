@@ -1,0 +1,51 @@
+﻿no,nama,jenis,bidang,bidang_nama,jumlah_kata
+1,Badan Perencanaan dan Pembangunan Daerah,Badan,A,"Perencanaan, Keuangan, dan Kepegawaian",5
+2,Badan Kepegawaian Daerah dan Pengembangan Sumber Daya Manusia,Badan,A,"Perencanaan, Keuangan, dan Kepegawaian",8
+3,Badan Penanggulangan Bencana Daerah,Badan,C,Pelayanan Dasar dan Infrastruktur,4
+4,Badan Kesatuan Bangsa dan Politik,Badan,B,Pemerintahan Umum dan Pengawasan,5
+5,Badan Keuangan Dan Asset Daerah,Badan,A,"Perencanaan, Keuangan, dan Kepegawaian",5
+6,Badan Pendapatan Daerah,Badan,A,"Perencanaan, Keuangan, dan Kepegawaian",3
+7,Badan Riset Dan Inovasi Daerah,Badan,E,"Pemberdayaan, Lingkungan, dan Informasi",5
+8,Dinas Perhubungan,Dinas,D,Ekonomi dan Pembangunan,2
+9,Dinas Kesehatan,Dinas,C,Pelayanan Dasar dan Infrastruktur,2
+10,Dinas Sosial,Dinas,C,Pelayanan Dasar dan Infrastruktur,2
+11,Dinas Pariwisata,Dinas,D,Ekonomi dan Pembangunan,2
+12,Dinas Kependudukan dan Pencatatan Sipil,Dinas,E,"Pemberdayaan, Lingkungan, dan Informasi",5
+13,Dinas Ketenagakerjaan,Dinas,D,Ekonomi dan Pembangunan,2
+14,"Dinas Pemberdayaan Perempuan, Perlindungan Anak, Pemberdayaan Masyarakat, Dan Pengendalian Penduduk Dan Keluarga Berencana",Dinas,E,"Pemberdayaan, Lingkungan, dan Informasi",13
+15,Dinas Lingkungan Hidup,Dinas,E,"Pemberdayaan, Lingkungan, dan Informasi",3
+16,Dinas Ketahanan Pangan Pertanian Perikanan,Dinas,D,Ekonomi dan Pembangunan,5
+17,Dinas Komunikasi dan Informatika,Dinas,E,"Pemberdayaan, Lingkungan, dan Informasi",4
+18,Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu,Dinas,D,Ekonomi dan Pembangunan,8
+19,"Dinas Koperasi, Usaha Kecil, Menengah, Perindustrian Dan Perdagangan",Dinas,D,Ekonomi dan Pembangunan,8
+20,Dinas Pemuda dan Olahraga,Dinas,E,"Pemberdayaan, Lingkungan, dan Informasi",4
+21,Dinas Perpustakaan dan Kearsipan,Dinas,E,"Pemberdayaan, Lingkungan, dan Informasi",4
+22,Dinas Pendidikan Dan Kebudayaan,Dinas,C,Pelayanan Dasar dan Infrastruktur,4
+23,"Dinas Perumahan, Kawasan Permukiman, Cipta Karya Dan Tata Ruang",Dinas,C,Pelayanan Dasar dan Infrastruktur,9
+24,Dinas Pemadam Kebakaran dan Penyelamatan,Dinas,C,Pelayanan Dasar dan Infrastruktur,5
+25,"Dinas Sumber Daya Air, Bina Marga Dan Bina Konstruksi",Dinas,C,Pelayanan Dasar dan Infrastruktur,9
+26,Inspektorat,Inspektorat,B,Pemerintahan Umum dan Pengawasan,1
+27,Satuan Polisi Pamong Praja,Satpol PP,B,Pemerintahan Umum dan Pengawasan,4
+28,Sekretariat Daerah,Sekretariat,B,Pemerintahan Umum dan Pengawasan,2
+29,Sekretariat DPRD,Sekretariat,B,Pemerintahan Umum dan Pengawasan,2
+30,Kecamatan Medan Tuntungan,Kecamatan,F,Wilayah (Kecamatan),3
+31,Kecamatan Medan Johor,Kecamatan,F,Wilayah (Kecamatan),3
+32,Kecamatan Medan Amplas,Kecamatan,F,Wilayah (Kecamatan),3
+33,Kecamatan Medan Denai,Kecamatan,F,Wilayah (Kecamatan),3
+34,Kecamatan Medan Area,Kecamatan,F,Wilayah (Kecamatan),3
+35,Kecamatan Medan Kota,Kecamatan,F,Wilayah (Kecamatan),3
+36,Kecamatan Medan Maimun,Kecamatan,F,Wilayah (Kecamatan),3
+37,Kecamatan Medan Polonia,Kecamatan,F,Wilayah (Kecamatan),3
+38,Kecamatan Medan Baru,Kecamatan,F,Wilayah (Kecamatan),3
+39,Kecamatan Medan Selayang,Kecamatan,F,Wilayah (Kecamatan),3
+40,Kecamatan Medan Sunggal,Kecamatan,F,Wilayah (Kecamatan),3
+41,Kecamatan Medan Helvetia,Kecamatan,F,Wilayah (Kecamatan),3
+42,Kecamatan Medan Petisah,Kecamatan,F,Wilayah (Kecamatan),3
+43,Kecamatan Medan Barat,Kecamatan,F,Wilayah (Kecamatan),3
+44,Kecamatan Medan Timur,Kecamatan,F,Wilayah (Kecamatan),3
+45,Kecamatan Medan Perjuangan,Kecamatan,F,Wilayah (Kecamatan),3
+46,Kecamatan Medan Tembung,Kecamatan,F,Wilayah (Kecamatan),3
+47,Kecamatan Medan Deli,Kecamatan,F,Wilayah (Kecamatan),3
+48,Kecamatan Medan Labuhan,Kecamatan,F,Wilayah (Kecamatan),3
+49,Kecamatan Medan Marelan,Kecamatan,F,Wilayah (Kecamatan),3
+50,Kecamatan Medan Belawan,Kecamatan,F,Wilayah (Kecamatan),3
