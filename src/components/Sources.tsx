@@ -23,15 +23,6 @@ export default function Sources() {
         </p>
       </div>
 
-      <div className="card">
-        <h3>Catatan penting</h3>
-        <ul className="bullets">
-          <li>Website ini merupakan visualisasi data akademik. Website ini <strong>bukan situs resmi</strong> Pemerintah Kota Medan.</li>
-          <li>Pengelompokan bidang disusun penulis berdasarkan fungsi, bukan klasifikasi resmi.</li>
-          <li>Jumlah perangkat yang terhubung tidak menggambarkan kualitas, keamanan, atau kapasitas jaringan.</li>
-        </ul>
-      </div>
-
       {SHOW_AUTHOR_METADATA && (
         <div className="card">
           <h3>Penulis</h3>
