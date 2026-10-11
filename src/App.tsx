@@ -6,7 +6,6 @@ import BidangAnalysis from './components/BidangAnalysis';
 import NameLength from './components/NameLength';
 import DataTable from './components/DataTable';
 import Conclusions from './components/Conclusions';
-import Methodology from './components/Methodology';
 import Sources from './components/Sources';
 import Footer from './components/Footer';
 
@@ -25,7 +24,6 @@ export default function App() {
         <NameLength />
         <DataTable />
         <Conclusions />
-        <Methodology />
         <Sources />
       </main>
       <Footer />

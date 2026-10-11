@@ -11,6 +11,5 @@ export const SECTIONS: SectionLink[] = [
   { id: 'panjang-nama', label: 'Panjang Nama' },
   { id: 'data-lengkap', label: 'Data Lengkap' },
   { id: 'kesimpulan', label: 'Kesimpulan' },
-  { id: 'metodologi', label: 'Metodologi' },
   { id: 'sumber', label: 'Sumber' },
 ];
